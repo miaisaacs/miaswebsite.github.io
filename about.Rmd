@@ -1,0 +1,13 @@
+---
+title: "About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Mia's awesome website
+
+this website was made as an example in [P8105](https://p8105.com/index.html) for making websites
+

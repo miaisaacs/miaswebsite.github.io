@@ -1,0 +1,27 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Mia's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+this is an awesome website about data science
+
+sometimes i use [this](google.com) when im stuck
+
+![](/Users/miaisaacs/Desktop/Data Science I/images/groovycat.jpeg)
+
+
+if you'd like to learn more about this website, visit [this page](about.html)
+
+
+
+
+
+
+
