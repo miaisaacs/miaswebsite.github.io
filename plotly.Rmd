@@ -63,6 +63,12 @@ nyc_airbnb |>
     type = "bar")
 ```
 
+```{r}
+plot_ly(
+  z = volcano, type = "heatmap"
+)
+```
+
 
 
 
